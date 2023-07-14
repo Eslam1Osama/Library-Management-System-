@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1688306346 source:c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"LSTD_TYPES.h"
+	"utility_control.h"
+	"book.h"
+	"member.h"
+	"borrowing.h"
+	"front.h"
+
+1688225595 c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\lstd_types.h
+
+1688225772 c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\utility_control.h
+
+1689331600 c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\book.h
+
+1688717136 c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\member.h
+
+1688715265 c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\borrowing.h
+
+1689331638 c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\front.h
+
+1688692178 source:c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\book.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"LSTD_TYPES.h"
+	"utility_control.h"
+	"book.h"
+
+1688224830 source:c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\utility_control.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"LSTD_TYPES.h"
+	"utility_control.h"
+
+1688720854 source:c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\borrowing.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"LSTD_TYPES.h"
+	"utility_control.h"
+	"book.h"
+	"member.h"
+	"borrowing.h"
+
+1688717095 source:c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\member.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"LSTD_TYPES.h"
+	"utility_control.h"
+	"member.h"
+
+1689331570 source:c:\users\eslam\desktop\1st year 5nd year\c-programming\cprogects\lms\front.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"LSTD_TYPES.h"
+	"utility_control.h"
+	"book.h"
+	"member.h"
+	"borrowing.h"
+	"front.h"
+
